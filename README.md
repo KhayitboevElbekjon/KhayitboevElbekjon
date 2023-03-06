@@ -1,5 +1,5 @@
 ### Hi there 👋
-briefcase Full time computer engineer and backend developer classical_building student Bachelor of Computer Engineering 🧑🏻‍💻 Backend developer face_with_spiral_eyes Working with Linux.
+
 <!--
 **KhayitboevElbekjon/KhayitboevElbekjon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
