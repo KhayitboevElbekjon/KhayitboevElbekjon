@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>salom</h1>
+
 <!--
 **KhayitboevElbekjon/KhayitboevElbekjon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h2>salom</h2>
 <div id="badges">
   <a href="www.linkedin.com/in/elbek-xayitboyev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
