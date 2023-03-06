@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 </div>
 
 ### :woman_technologist: About Me :
+- 🏛️ Bachelor of Computer Engineering
+
 - :telescope: I am working and studying as a software engineer. I am a backend developer for building web applications
 
 - :seedling: Exploring Technical Content Writing.
