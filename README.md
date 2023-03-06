@@ -30,8 +30,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-
-<img align="center" src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/ >
+<img align="center" src="https://komarev.com/ghpvc/?username=KhayitboevElbekjon&style=flat-square&color=blue" alt=""/>
 
 
 <h1 align="center">
