@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<img  src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/ align="center">
+<img align="center" src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/ >
 
 
 <h1 align="center">
