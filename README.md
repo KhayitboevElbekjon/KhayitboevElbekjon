@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+briefcase Full time computer engineer and backend developer classical_building student Bachelor of Computer Engineering 🧑🏻‍💻 Backend developer face_with_spiral_eyes Working with Linux.
 <!--
 **KhayitboevElbekjon/KhayitboevElbekjon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
