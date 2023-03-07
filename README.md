@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" alt="MySQL" width="40" height="40" />&nbsp;
-             
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="MySQL" width="40" height="40" />&nbsp;
 
 </div>
 
