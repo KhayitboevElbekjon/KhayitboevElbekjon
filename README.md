@@ -6,7 +6,7 @@
   <p>
     <a href="https://www.linkedin.com/in/elbek-xayitboyev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/EEXayitboyev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="https://leetcode.com/khayitboevElbek/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+    <a href="https://t.me/Elbekjon_Ds"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   </p>
 </div>
 
@@ -49,6 +49,17 @@ me.say_hi()
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+
+### AI Automation & Vector DB
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logo=weaviate&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -81,11 +92,12 @@ me.say_hi()
 
 ## 🔥 Current Focus
 
-- 🌱 Learning advanced AI/ML techniques and deep learning architectures
-- 🔭 Building scalable backend systems with microservices architecture
-- 🤖 Exploring Large Language Models (LLMs) and their applications
-- 💡 Contributing to open-source AI/ML projects
-- 📚 Continuously improving my skills in cloud technologies
+- 🌱 Building AI agents and automation workflows with n8n and LangChain
+- 🔭 Working with Vector Databases (Pinecone, Weaviate, ChromaDB) for semantic search
+- 🤖 Developing RAG (Retrieval-Augmented Generation) applications
+- 💡 Exploring LLMs, embeddings, and fine-tuning techniques
+- 📚 Creating scalable backend systems integrated with AI/ML models
+- 🚀 Building intelligent chatbots and AI-powered automation solutions
 
 <br/>
 
@@ -95,7 +107,7 @@ me.say_hi()
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elbek-xayitboyev)
   [![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/EEXayitboyev)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Challenge_Me-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/khayitboevElbek/)
+  [![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/Elbekjon_Ds)
   
   <br/>
   
